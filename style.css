@@ -1,0 +1,49 @@
+*{
+    padding: 0; margin: 0;
+}
+
+.courseslist{
+    padding: 100px 0;
+}
+h1{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.fea-img img{
+    width: 100%;
+}
+
+.fea-img {
+    position: relative;
+}
+
+.fea-details{
+    padding: 20px;
+    text-align: justify;
+    float: right;
+}
+.fea-details h4{
+    font-weight: 600;
+    margin-top: 20px;
+}
+.fea-box{
+    width: 100%;
+}
+.main-page{
+    text-align: center;
+    padding-top: 10px;
+}
+.abc{
+    text-align: left;
+}
+.fees{
+    width: 50px;
+    height: 50px;
+    background: #ff5722;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 50%;
+    padding: 10px;
+    box-shadow: 0 0 10px 1px rgba(37, 73, 214, 0.18);
+}
